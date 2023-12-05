@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "110762159543",
+    "project_id": "login-register-firebase-cba9f",
+    "storage_bucket": "login-register-firebase-cba9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110762159543:android:157c48a0d43fa86cd54c32",
+        "android_client_info": {
+          "package_name": "com.example.practicafinaluf1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCprVWnePgCVtfZfZiWCVv3yoyBWVFAbpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110762159543:android:e62d6894a144049fd54c32",
+        "android_client_info": {
+          "package_name": "com.example.uf1androidstudio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCprVWnePgCVtfZfZiWCVv3yoyBWVFAbpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
